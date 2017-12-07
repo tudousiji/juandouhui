@@ -10,3 +10,7 @@
 [Thu Dec 07 21:55:36.847940 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
 [Thu Dec 07 21:55:37.017793 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
 [Thu Dec 07 21:55:37.187730 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:57:21.907465 2017] [access_compat:error] [pid 1464] [client 127.0.0.1:50605] AH01797: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/thinkphp/
+[Thu Dec 07 21:57:21.912254 2017] [access_compat:error] [pid 1464] [client 127.0.0.1:50605] AH01797: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/application/
+[Thu Dec 07 21:58:11.509488 2017] [access_compat:error] [pid 1493] [client 127.0.0.1:50614] AH01797: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/thinkphp/
+[Thu Dec 07 21:58:11.514388 2017] [access_compat:error] [pid 1493] [client 127.0.0.1:50614] AH01797: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/application/
