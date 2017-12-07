@@ -1,0 +1,12 @@
+[Thu Dec 07 21:55:33.062094 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:35.015930 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:35.596544 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:35.780090 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:35.948504 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:36.123427 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:36.298628 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:36.483796 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:36.661373 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:36.847940 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:37.017793 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
+[Thu Dec 07 21:55:37.187730 2017] [authz_core:error] [pid 1444] [client 127.0.0.1:50586] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
