@@ -1,5 +1,0 @@
-[Thu Dec 07 21:51:20.461805 2017] [authz_core:error] [pid 1417] [client 127.0.0.1:50466] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
-[Thu Dec 07 21:51:21.124093 2017] [authz_core:error] [pid 1417] [client 127.0.0.1:50466] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
-[Thu Dec 07 21:51:21.319184 2017] [authz_core:error] [pid 1417] [client 127.0.0.1:50466] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
-[Thu Dec 07 21:51:21.493244 2017] [authz_core:error] [pid 1417] [client 127.0.0.1:50466] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
-[Thu Dec 07 21:51:21.671678 2017] [authz_core:error] [pid 1417] [client 127.0.0.1:50466] AH01630: client denied by server configuration: /Users/duanzheng/WorkSpace/Php/PhpProject/juandouhui/
